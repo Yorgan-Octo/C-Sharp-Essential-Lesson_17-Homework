@@ -107,7 +107,6 @@ namespace Task_2
                     Car = car,
                 };
 
-
             foreach (var item in data)
             {
                 Console.WriteLine(new String('=', 50));
